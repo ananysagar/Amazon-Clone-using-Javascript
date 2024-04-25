@@ -16,6 +16,7 @@ body {
 .logo {
     margin-top: 20px;
 }
+
 .signin-container {
     max-width: 350px;
     border: 1px solid #d2d2d2;
@@ -106,13 +107,24 @@ body {
 .signin-signup-btn:hover{
     background: #dbd8d8;
 }
-footer {
+.signin-footer {
     width: 100%;
     height: auto;
     max-height: 200px;
     margin-top: 20px;
     padding: 20px 0;
     position: fixed;
+    bottom: 0;
+    background: linear-gradient(to bottom, #e1d9d9c7,#fff);
+    border: 2px solid #ededed;
+    font-size: 12px;
+}
+.signup-footer {
+    width: 100%;
+    height: auto;
+    max-height: 200px;
+    margin-top: 20px;
+    padding: 20px 0;
     bottom: 0;
     background: linear-gradient(to bottom, #e1d9d9c7,#fff);
     border: 2px solid #ededed;
