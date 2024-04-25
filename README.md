@@ -1,12 +1,13 @@
 # Amazon clone using Javascript
 Tech stacks used - Javascript, HTML/CSS
 
-## Project is live here: [https://react-admin-dashboard-six-zeta.vercel.app/](https://amazon-clone-rose-zeta.vercel.app/)
+## Project is live here: https://amazon-clone-rose-zeta.vercel.app/
 
 ### Layout
 
 **Home page**
-![amazon-clone-rose-zeta vercel app_ (1)](https://github.com/ananysagar/Amazon-Clone-using-Javascript/assets/39479521/ac58bcf6-019e-47d0-8d8c-bc773374eac1)
+![image](https://github.com/ananysagar/Amazon-Clone-using-Javascript/assets/39479521/18429301-34ca-48ff-a6e1-523304a963a2)
+
 ![amazon-clone-rose-zeta vercel app_ (1)](https://github.com/ananysagar/Amazon-Clone-using-Javascript/assets/39479521/64422a99-4cba-43c3-bfc5-111f6e4bb5a1)
 
 **Product page**
